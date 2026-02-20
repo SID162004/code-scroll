@@ -1,0 +1,2 @@
+# docker-compose removed: Postgres orchestration was removed from this project per repository configuration.
+# If you need a local MySQL or Postgres for development, add a new docker-compose or run your DB manually.
